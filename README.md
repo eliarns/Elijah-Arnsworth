@@ -1,7 +1,7 @@
 # Hello, I'm Elijah Arnsworth
 <a href="https://linkedin.com/in/elijah-arnsworth/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security+ certified with 2+ years in IT, specializing in threat analysis, SIEM, and compliance (NIST, ISO 27001, GDPR, HIPAA). Passionate about proactive defense.
+I am Security+ certified with 2+ years in IT, specializing in threat analysis, SIEM, and compliance (NIST, ISO 27001, GDPR, HIPAA). Passionate about proactive defense.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
