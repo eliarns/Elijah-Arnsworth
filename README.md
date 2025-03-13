@@ -1,12 +1,11 @@
 # Hello, I'm Elijah Arnsworth
 <a href="https://linkedin.com/in/elijah-arnsworth/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Introduction
 I am Security+ certified with 2+ years in IT, specializing in threat analysis, SIEM, and compliance (NIST, ISO 27001, GDPR, HIPAA). Passionate about proactive defense.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Objective
+I plan to analyze and respond to security events efficiently while strengthening my skills in log analysis, vulnerability management, and security automation to protect organizations from evolving threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
