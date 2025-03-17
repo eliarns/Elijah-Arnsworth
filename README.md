@@ -48,7 +48,7 @@ I plan to analyze and respond to security events efficiently while strengthening
 <img src="https://img.shields.io/badge/UT%20Austin-Cybersecurity%20Certified-orange?style=for-the-badge&logo=University-of-Texas&logoColor=white" />
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certified-blue?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google-IT%20Certified-blue?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-CySa%2B%20Certified-red?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
