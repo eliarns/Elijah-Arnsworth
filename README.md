@@ -12,7 +12,7 @@ I plan to analyze and respond to security events efficiently while strengthening
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis                                  | <a href="https://google.com">Detection Lab</a>|
+| Log Analysis                                  | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Vulnerability Management                      | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,4 +53,4 @@ I plan to analyze and respond to security events efficiently while strengthening
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
