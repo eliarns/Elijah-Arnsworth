@@ -44,18 +44,22 @@ I plan to analyze and respond to security events efficiently while strengthening
 ### Incident Response/Case Management
 <div>
     <img src="https://img.shields.io/badge/TheHive-yellow?style=for-the-badge&logo=TheHive&logoColor=black" />
+</div> 
 
 ### SOAR
 <div>
     <img src="https://img.shields.io/badge/Shuffle-orange?style=for-the-badge&logo=Shuffle&logoColor=white" />
+</div>    
 
 ### Cloud Infrastructure
 <div>
     <img src="https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+</div>
 
 ### Threat Intelligence
 <div>
     <img src="https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</div>    
 
 ## Certifications
 <div>
