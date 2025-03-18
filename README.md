@@ -14,14 +14,12 @@ I plan to analyze and respond to security events efficiently while strengthening
 |-----------------------------------------------|----------------------------|
 | Log Analysis                                  | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Vulnerability Management                      | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -37,10 +35,22 @@ I plan to analyze and respond to security events efficiently while strengthening
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/TheHive-yellow?style=for-the-badge&logo=TheHive&logoColor=black" />
+
+### Cloud Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge&logo=VirusTotal&logoColor=white" />
 
 ## Certifications
 <div>
