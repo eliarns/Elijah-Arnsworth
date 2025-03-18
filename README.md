@@ -20,6 +20,7 @@ I plan to analyze and respond to security events efficiently while strengthening
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -48,7 +49,6 @@ I plan to analyze and respond to security events efficiently while strengthening
 <div>
     <img src="https://img.shields.io/badge/Shuffle-orange?style=for-the-badge&logo=Shuffle&logoColor=white" />
 
-
 ### Cloud Infrastructure
 <div>
     <img src="https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
@@ -57,7 +57,7 @@ I plan to analyze and respond to security events efficiently while strengthening
 <div>
     <img src="https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge&logo=VirusTotal&logoColor=white" />
 
-### Certifications
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/UT%20Austin-Cybersecurity%20Certified-orange?style=for-the-badge&logo=University-of-Texas&logoColor=white" />
@@ -66,6 +66,6 @@ I plan to analyze and respond to security events efficiently while strengthening
 <img src="https://img.shields.io/badge/CompTIA-CySa%2B%20Certified-red?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-### Projects
+## Projects
 - Detection Lab
 - <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
