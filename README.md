@@ -40,9 +40,14 @@ I plan to analyze and respond to security events efficiently while strengthening
     <img src="https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SOAR
+### Incident Response/Case Management
 <div>
     <img src="https://img.shields.io/badge/TheHive-yellow?style=for-the-badge&logo=TheHive&logoColor=black" />
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/Shuffle-orange?style=for-the-badge&logo=Shuffle&logoColor=white" />
+
 
 ### Cloud Infrastructure
 <div>
