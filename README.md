@@ -73,3 +73,5 @@ I plan to analyze and respond to security events efficiently while strengthening
 ## Projects
 - Detection Lab
 - <a href="https://github.com/eliarns/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
+- <a href="https://github.com/eliarns/Microsoft-Sentinel-SOC-Lab/tree/main">Microsoft Sentinel SOC Lab</a>
+
